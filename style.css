@@ -1,10 +1,13 @@
 body {
   background-color: #333;
-  color: aliceblues;
+  color: aliceblue;
 }
 
 .wrapper {
   max-width: 1024px;
   margin: 0 auto;
   text-align: center;
+  /* background-color: #aaa; */
+  color: gold;
+  font-size: 25px;
 }
